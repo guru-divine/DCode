@@ -66,6 +66,7 @@ DCode is developed using JavaScript and leverages the following technologies:
    ```
 3. Run the python script:
    ```sh
+   echo 'FLASK_SECRET_KEY="dummySecretKey"' > .env
    python main.py
    ```
 
